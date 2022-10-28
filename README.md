@@ -6,4 +6,4 @@ If you have a better idea for the site design, do not hesitate to contact us.
 
 You can go to [esmaulhusna.com.tr](esmaulhusna.com.tr) to view the site live.
 
-![Website Mockup](".github/website-mockup.png")
+![Website Mockup](.github/website-mockup.png)
